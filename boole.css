@@ -42,6 +42,7 @@ h2 {
 .col-8 {
     width: calc(( 100% / 12)*8);
     background-color: purple;
+    background-image: url(https://lh3.googleusercontent.com/proxy/lKLpWmWICqSuyKuZGuOGkvMf6dnsZWuYNyriE1HQKP5mxa8hmbzrXBhc0hiktxugT1tcoGRZuD2y2Q0Mz1DgbCbz6YZUNdIgpSQVL7bVTz6yXrcPv2pc1drhuuxIyjBlrO9ipiLmVts0Xzj81xdV9ERKSbvncy6yBi5j);
 }
 .col-8n {
     width: calc(( 100% / 24)*8);
